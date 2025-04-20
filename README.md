@@ -1,3 +1,6 @@
+****RL Agent for Early Sepsis Detection & Intervention*****
+
+
 An interactive simulation where a Reinforcement Learning agent (PPO) monitors a virtual sepsis patient and takes real-time treatment actions—like fluids or antibiotics—to stabilize vitals and prevent deterioration. Built with Streamlit, it showcases how AI can assist in critical ICU decisions.
 
 Our goal is to train an RL agent that:
